@@ -1,0 +1,6 @@
+csv
+random
+tabulate
+colorama
+re
+os
